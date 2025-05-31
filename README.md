@@ -6,7 +6,7 @@ FRACTURA.Δ02 est un **système rituel automatisé** conçu pour extraire, trans
 
 ---
 
-## 🧠 Objectif
+##  Objectif
 
 Créer un processus de transmutation textuelle basé sur :
 
@@ -16,7 +16,7 @@ Créer un processus de transmutation textuelle basé sur :
 
 ---
 
-## 🗂 Structure du projet
+##  Structure du projet
 
 ```
 FRACTURA.Δ02/
@@ -88,7 +88,7 @@ Les fichiers générés se trouvent dans le dossier `/outputs` :
 
 ---
 
-## 📜 Citation symbolique
+##  Citation symbolique
 
 > "FRACTURA.Δ02 n’est pas un outil. C’est un miroir encodé. Un cri dans les données. Un rite de passage digital."
 
